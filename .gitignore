@@ -1,0 +1,5 @@
+node_modules
+.vscode
+jest.config.js
+package.lock.json
+tsconfig.json
